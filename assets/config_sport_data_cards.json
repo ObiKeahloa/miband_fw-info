@@ -1,0 +1,406 @@
+[
+  {
+    "sportGroup": "Outdoor running",
+    "data": [
+      "distance",
+      "exerciseTime",
+      "averagePace",
+      "averageHeartRate",
+      "pauseTime",
+      "cal",
+      "maximumHeartRate",
+      "bestPace",
+      "minimumHeartRate",
+      "averageStride",
+      "averageCadence",
+      "steps"
+    ]
+  },
+  {
+    "sportGroup": "Treadmill",
+    "data": [
+      "distance",
+      "exerciseTime",
+      "averagePace",
+      "averageHeartRate",
+      "pauseTime",
+      "cal",
+      "maximumHeartRate",
+      "bestPace",
+      "minimumHeartRate",
+      "averageStride",
+      "averageCadence",
+      "steps"
+    ]
+  },
+  {
+    "sportGroup": "Walking",
+    "data": [
+      "distance",
+      "exerciseTime",
+      "averageSpeed",
+      "averageHeartRate",
+      "pauseTime",
+      "cal",
+      "maximumHeartRate",
+      "maxSpeed",
+      "minimumHeartRate",
+      "averageStride",
+      "averageCadence",
+      "steps"
+    ]
+  },
+  {
+    "sportGroup": "Indoor walking",
+    "data": [
+      "distance",
+      "exerciseTime",
+      "averageSpeed",
+      "averageHeartRate",
+      "pauseTime",
+      "cal",
+      "maximumHeartRate",
+      "maxSpeed",
+      "minimumHeartRate",
+      "averageStride",
+      "averageCadence",
+      "steps"
+    ]
+  },
+  {
+    "sportGroup": "Indoor Cycling",
+    "data": [
+      "cal",
+      "exerciseTime",
+      "averageHeartRate",
+      "maximumHeartRate"
+    ]
+  },
+  {
+    "sportGroup": "Outdoor Cycling",
+    "data": [
+      "distance",
+      "exerciseTime",
+      "averageHeartRate",
+      "averageSpeed",
+      "elevationGain",
+      "elevationLoss",
+      "maxSpeed",
+      "maximumHeartRate",
+      "minimumHeartRate",
+      "totalTime"
+    ]
+  },
+  {
+    "sportGroup": "Class 1",
+    "data": [
+      "distance",
+      "exerciseTime",
+      "averageSpeed",
+      "averageHeartRate",
+      "pauseTime",
+      "maxSpeed",
+      "maximumHeartRate",
+      "minimumHeartRate"
+    ]
+  },
+  {
+    "sportGroup": "Class 2",
+    "data": [
+      "cal",
+      "exerciseTime",
+      "averageHeartRate",
+      "maximumHeartRate"
+    ]
+  },
+  {
+    "sportGroup": "Class 3",
+    "data": [
+      "cal",
+      "exerciseTime",
+      "averageHeartRate",
+      "averageStress",
+      "pauseTime",
+      "maximumHeartRate",
+      "maximumStress",
+      "minimumHeartRate",
+      "minimumStress"
+    ]
+  },
+  {
+    "sportGroup": "Strength training",
+    "data": [
+      "totalGroups",
+      "exerciseTime",
+      "averageHeartRate",
+      "cal",
+      "restTimeBetweenGroups",
+      "pauseTime",
+      "maximumHeartRate",
+      "minimumHeartRate",
+      "totalTime"
+    ]
+  },
+  {
+    "sportGroup": "Indoor Fitness",
+    "data": [
+      "totalGroups",
+      "exerciseTime",
+      "averageHeartRate",
+      "cal",
+      "restTimeBetweenGroups",
+      "pauseTime",
+      "maximumHeartRate",
+      "minimumHeartRate",
+      "totalTime"
+    ]
+  },
+  {
+    "sportGroup": "Pool Swimming",
+    "data": [
+      "distance",
+      "exerciseTime",
+      "averagePace",
+      "mainSwimmingStyle",
+      "trips",
+      "swolf",
+      "cal",
+      "averageDistancePerStroke",
+      "averageStrokeRate",
+      "maximumStrokeRate",
+      "poolLength"
+    ]
+  },
+  {
+    "sportGroup": "Open Water Swimming",
+    "data": [
+      "distance",
+      "exerciseTime",
+      "averagePace",
+      "mainSwimmingStyle",
+      "averageStrokeRate",
+      "swolf",
+      "averageDistancePerStroke",
+      "maximumStrokeRate",
+      "totalStrokes"
+    ]
+  },
+  {
+    "sportGroup": "Mountaineering",
+    "data": [
+      "distance",
+      "exerciseTime",
+      "averageSpeed",
+      "averageHeartRate",
+      "elevationGain",
+      "elevationLoss",
+      "cal",
+      "maximumHeartRate",
+      "maxSpeed",
+      "minimumHeartRate",
+      "steps"
+    ]
+  },
+  {
+    "sportGroup": "Trail Running",
+    "data": [
+      "distance",
+      "exerciseTime",
+      "averagePace",
+      "averageHeartRate",
+      "elevationGain",
+      "elevationLoss",
+      "cal",
+      "maximumHeartRate",
+      "maxSpeed",
+      "minimumHeartRate",
+      "steps"
+    ]
+  },
+  {
+    "sportGroup": "Skiing",
+    "data": [
+      "totalDistanceOfDownhill",
+      "exerciseTime",
+      "averageHeartRate",
+      "averageSpeed",
+      "timesOfDownhill",
+      "totalDownhillDrop",
+      "maxSpeed",
+      "maximumHeartRate",
+      "minimumHeartRate"
+    ]
+  },
+  {
+    "sportGroup": "Cross-country skiing",
+    "data": [
+      "distance",
+      "exerciseTime",
+      "averageHeartRate",
+      "averageSpeed",
+      "elevationGain",
+      "elevationLoss",
+      "cal",
+      "maximumHeartRate",
+      "maxSpeed",
+      "minimumHeartRate"
+    ]
+  },
+  {
+    "sportGroup": "Rowing machine",
+    "data": [
+      "totalTimesOfRowing",
+      "exerciseTime",
+      "averageRowingFrequency",
+      "averageHeartRate",
+      "averagePullingTime",
+      "averagePaddleTime",
+      "cal",
+      "highestRowingFrequency"
+    ]
+  },
+  {
+    "sportGroup": "Soccer",
+    "data": [
+      "distance",
+      "exerciseTime",
+      "averageSpeed",
+      "averageHeartRate",
+      "cal",
+      "maxSpeed",
+      "maximumHeartRate",
+      "minimumHeartRate"
+    ]
+  },
+  {
+    "sportGroup": "Tennis",
+    "data": [
+      "cal",
+      "exerciseTime",
+      "totalTimesOfSwing",
+      "averageHeartRate",
+      "timesOfForehandSwing",
+      "timesOfBackhandSwing",
+      "serveTimes",
+      "maximumHeartRate"
+    ]
+  },
+  {
+    "sportGroup": "Rope Skipping",
+    "data": [
+      "totalNumberOfJumps",
+      "exerciseTime",
+      "averageFrequency",
+      "averageHeartRate",
+      "restTimeBetweenGroups",
+      "totalGroups",
+      "cal",
+      "maximumHeartRate"
+    ]
+  },
+  {
+    "sportGroup": "Triathlon",
+    "data": [
+      "distance",
+      "exerciseTime",
+      "averageHeartRate",
+      "cal"
+    ]
+  },
+  {
+    "sportGroup": "multisport",
+    "data": [
+      "distance",
+      "exerciseTime",
+      "averageHeartRate",
+      "cal"
+    ]
+  },
+  {
+    "sportGroup": "Outdoor rowing",
+    "data": [
+      "distance",
+      "exerciseTime",
+      "averageSpeed",
+      "averageHeartRate",
+      "averageRowingFrequency",
+      "maxSpeed",
+      "cal",
+      "maximumHeartRate"
+    ]
+  },
+  {
+    "sportGroup": "Stair climbing",
+    "data": [
+      "upstairFloors",
+      "exerciseTime",
+      "upstairHeight",
+      "averageFloorsClimbedPerMinute",
+      "averageHeartRate",
+      "maximumHeartRate",
+      "cal"
+    ]
+  },
+  {
+    "sportGroup": "parasailing",
+    "data": [ ]
+  },
+  {
+    "sportGroup": "Class 4",
+    "data": [ ]
+  },
+  {
+    "sportGroup": "Class 5",
+    "data": [ ]
+  },
+  {
+    "sportGroup": "Class 6",
+    "data": [ ]
+  },
+  {
+    "sportGroup": "golf",
+    "data": [ ]
+  },
+  {
+    "sportGroup": "golf swing",
+    "data": [
+      "golfSwingCounter",
+      "exerciseTime",
+      "averageGolfBeat",
+      "averageGolfUpTime",
+      "averageGolfDownTime",
+      "averageGolfAngle",
+      "cal"
+    ]
+  },
+  {
+    "sportGroup": "driving",
+    "data": [
+      "distance",
+      "exerciseTime",
+      "averageSpeed",
+      "averageAltitude",
+      "elevationGain",
+      "elevationLoss",
+      "averageHeartRate",
+      "maxSpeed",
+      "maximumHeartRate",
+      "minimumHeartRate"
+    ]
+  },
+  {
+    "sportGroup": "Running track",
+    "data": [
+      "distance",
+      "exerciseTime",
+      "averagePace",
+      "averageHeartRate",
+      "pauseTime",
+      "cal",
+      "maximumHeartRate",
+      "averageCadence",
+      "averageStride",
+      "bestPace"
+    ]
+  }
+]

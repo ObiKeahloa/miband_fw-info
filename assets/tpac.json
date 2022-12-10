@@ -1,0 +1,57 @@
+{
+   "wechat": {
+      "appid": "wx05a5c3841b61aaf8",
+      "scope": [
+         "snsapi_userinfo"
+      ],
+      "redirect_url": "http://wx.qq.com",
+      "third_name": "mifit-wechat"
+   },
+   "xiaomi": {
+      "appid": "428135909242707968",
+      "platform": 1,
+      "scope": [
+         "1",
+         "6000",
+         "16001",
+        "16002",
+         "20000"
+      ],
+      "redirect_url": "https://api-mifit-cn.huami.com/huami.health.loginview.do",
+      "third_name": "xiaomi-hm-mifit",
+      "skip_confirm": false,
+      "keep_cookies": true
+   },
+   "facebook": {
+      "appid": "370547106731052",
+      "scope": [
+         "public_profile",
+         "email"
+      ],
+      "third_name": "facebook"
+   },
+   "google": {
+      "appid": "571394967398-l733d9h05cuimn3ev9ap4o2a8hpi1ir6.apps.googleusercontent.com",
+      "scope": [
+         "email",
+         "profile"
+      ],
+      "third_name": "google"
+   },
+   "huami_phone": {
+      "third_name": "huami_phone"
+   },
+   "kongming": {
+      "appid": "560789118762616832",
+      "platform": 1,
+      "scope": [
+         "1",
+         "6000",
+         "20000"
+      ],
+      "redirect_url": "https://api-mifit-cn.huami.com/huami.health.loginview.do",
+      "third_name": "xiaomi-hm-mifit-device",
+      "skip_confirm": false,
+      "keep_cookies": true
+   }
+}

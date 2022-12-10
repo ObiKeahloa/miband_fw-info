@@ -1,0 +1,170 @@
+[
+  {
+    "title": "United States",
+    "target": "https://upload-cdn.huami.com/tposts/8288",
+    "language": "US",
+    "version": "20170815000000",
+    "sort": "5",
+    "createTime": 1502726403
+  },
+  {
+    "title": "台灣地區",
+    "target": "https://upload-cdn.huami.com/tposts/8289",
+    "language": "TW",
+    "version": "20170815000000",
+    "sort": "3",
+    "createTime": 1502726402
+  },
+  {
+    "title": "Republik Indonesia",
+    "target": "https://upload-cdn.huami.com/tposts/8290",
+    "language": "ID",
+    "version": "20171017144824",
+    "sort": "7",
+    "createTime": 1508222904
+  },
+  {
+    "title": "Rzeczpospolita Polska",
+    "target": "https://upload-cdn.huami.com/tposts/8291",
+    "language": "PL",
+    "version": "20171017144912",
+    "sort": "8",
+    "createTime": 1508222952
+  },
+  {
+    "title": "Российская Федерация",
+    "target": "https://upload-cdn.huami.com/tposts/8292",
+    "language": "RU",
+    "version": "20171017144943",
+    "sort": "6",
+    "createTime": 1508222983
+  },
+  {
+    "title": "دولة الإمارات العربية المتحدة‎‎",
+    "target": "https://upload-cdn.huami.com/tposts/8293",
+    "language": "AE",
+    "version": "20171017145023",
+    "sort": "9",
+    "createTime": 1508223023
+  },
+  {
+    "title": "大陆地区",
+    "target": "https://upload-cdn.huami.com/tposts/8294",
+    "language": "CN",
+    "version": "20171017145113",
+    "sort": "1",
+    "createTime": 1508223073
+  },
+  {
+    "title": "日本国",
+    "target": "https://upload-cdn.huami.com/tposts/8295",
+    "language": "JP",
+    "version": "20181101162931",
+    "sort": "0",
+    "createTime": 1541060971
+  },
+  {
+    "title": "Türkiye Cumhuriyeti",
+    "target": "https://upload-cdn.huami.com/tposts/8296",
+    "language": "TR",
+    "version": "20181101165917",
+    "sort": "0",
+    "createTime": 1541062757
+  },
+  {
+    "title": "대한민국",
+    "target": "https://upload-cdn.huami.com/tposts/8297",
+    "language": "KR",
+    "version": "20190603190315",
+    "sort": "0",
+    "createTime": 1559559795
+  },
+  {
+    "title": "Рэспубліка Беларусь",
+    "target": "https://upload-cdn.huami.com/tposts/8298",
+    "language": "BY",
+    "version": "20190516202124",
+    "sort": "0",
+    "createTime": 1558009283
+  },
+  {
+    "title": "Reino de España",
+    "target": "https://upload-cdn.huami.com/tposts/8299",
+    "language": "ES",
+    "version": "20171017165854",
+    "sort": "0",
+    "createTime": 1508230733
+  },
+  {
+    "title": "香港地區",
+    "target": "https://upload-cdn.huami.com/tposts/8300",
+    "language": "HK",
+    "version": "20170815000000",
+    "sort": "0",
+    "createTime": 1502726401
+  },
+  {
+    "title": "ราชอาณาจักรไทย",
+    "target": "https://upload-cdn.huami.com/tposts/8301",
+    "language": "TH",
+    "version": "20181101163012",
+    "sort": "0",
+    "createTime": 1541061012
+  },
+  {
+    "title": "УКРАЇНА",
+    "target": "https://upload-cdn.huami.com/tposts/8302",
+    "language": "UA",
+    "version": "20181101165533",
+    "sort": "0",
+    "createTime": 1541062533
+  },
+  {
+    "title": "Cộng hòa Xã hội Chủ nghĩa Việt Nam",
+    "target": "https://upload-cdn.huami.com/tposts/8303",
+    "language": "VN",
+    "version": "20181018202120",
+    "sort": "0",
+    "createTime": 1539865280
+  },
+  {
+    "title": "Republic of India",
+    "target": "https://upload-cdn.huami.com/tposts/8304",
+    "language": "IN",
+    "version": "20190518201449",
+    "sort": "0",
+    "createTime": 1558181689
+  },
+  {
+    "title": "Malaysia",
+    "target": "https://upload-cdn.huami.com/tposts/8305",
+    "language": "MY",
+    "version": "20190518201728",
+    "sort": "0",
+    "createTime": 1558181848
+  },
+  {
+    "title": "Republic of Singapore",
+    "target": "https://upload-cdn.huami.com/tposts/8306",
+    "language": "SG",
+    "version": "20190518202215",
+    "sort": "0",
+    "createTime": 1558182134
+  },
+  {
+    "title": "United Kingdom",
+    "target": "https://upload-cdn.huami.com/tposts/8307",
+    "language": "GB",
+    "version": "20190518203309",
+    "sort": "0",
+    "createTime": 1558182788
+  },
+  {
+    "title": "Ireland",
+    "target": "https://upload-cdn.huami.com/tposts/8308",
+    "language": "IE",
+    "version": "20190610211125",
+    "sort": "0",
+    "createTime": 1560172284
+  }
+]

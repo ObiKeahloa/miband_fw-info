@@ -1,0 +1,1 @@
+ALTER TABLE WatchFaces ADD COLUMN HasSlpt INTEGER;

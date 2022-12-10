@@ -1,0 +1,134 @@
+[{
+  "sportGroup": "Outdoor running",
+  "charts": ["pace", "heart", "heartzone", "altitude", "slope", "stepFreq", "stepStride", "TE", "bodyStatus"],
+  "segments": ["", ""]
+},
+
+  {
+    "sportGroup": "Treadmill",
+    "charts": ["pace", "heart", "heartzone", "stepFreq", "stepStride", "TE"],
+    "segments": ["", ""]
+  },
+
+  {
+    "sportGroup": "Walking",
+    "charts": ["speed", "heart", "heartzone", "altitude", "slope", "stepFreq", "stepStride", "TE"],
+    "segments": ["", ""]
+  },
+  {
+    "sportGroup": "Indoor walking",
+    "charts": ["speed", "heart", "heartzone", "stepFreq", "stepStride", "TE"],
+    "segments": ["", ""]
+  },
+  {
+    "sportGroup": "Indoor Cycling",
+    "charts": ["heart", "heartzone", "powerMeter", "TE"],
+    "segments": ["", ""]
+  },
+  {
+    "sportGroup": "Outdoor Cycling",
+    "charts": ["speed", "heart", "heartzone", "powerMeter", "altitude", "slope", "TE"],
+    "segments": ["", ""]
+  },
+  {
+    "sportGroup": "Class 1",
+    "charts": ["speed", "heart", "heartzone", "TE"],
+    "segments": ["", ""]
+  },
+  {
+    "sportGroup": "Class 2",
+    "charts": ["heart", "heartzone", "TE"],
+    "segments": ["", ""]
+  },
+  {
+    "sportGroup": "Class 3",
+    "charts": ["heart", "heartzone", "pressure", "TE"],
+    "segments": ["", ""]
+  },
+  {
+    "sportGroup": "Strength training",
+    "charts": ["heart", "heartzone", "TE"],
+    "segments": ["", ""]
+  },
+  {
+    "sportGroup": "Indoor Fitness",
+    "charts": ["heart", "heartzone", "TE"],
+    "segments": ["", ""]
+  },
+  {
+    "sportGroup": "Pool Swimming",
+    "charts": ["pace", "heart", "heartzone", "strokeSpeed", "TE"],
+    "segments": ["", ""]
+  },
+  {
+    "sportGroup": "Open Water Swimming",
+    "charts": ["pace", "heart", "heartzone", "strokeSpeed", "TE"],
+    "segments": ["", ""]
+  },
+  {
+    "sportGroup": "Mountaineering",
+    "charts": ["speed", "heart", "heartzone", "altitude", "spo2", "TE"],
+    "segments": ["", ""]
+  },
+  {
+    "sportGroup": "Trail Running",
+    "charts": ["pace", "heart", "heartzone", "altitude", "slope", "stepFreq", "stepStride", "TE"],
+    "segments": ["", ""]
+  },
+  {
+    "sportGroup": "Skiing",
+    "charts": ["speed", "heart", "heartzone", "altitude", "TE"],
+    "segments": ["", ""]
+  },
+  {
+    "sportGroup": "Cross-country skiing",
+    "charts": ["speed", "heart", "heartzone", "altitude", "slope", "TE"],
+    "segments": ["", ""]
+  },
+  {
+    "sportGroup": "Rowing machine",
+    "charts": ["heart", "heartzone", "strokeFreq", "TE"],
+    "segments": ["", ""]
+  },
+  {
+    "sportGroup": "Soccer",
+    "charts": ["heart", "heartzone", "TE"],
+    "segments": ["", ""]
+  },
+  {
+    "sportGroup": "Tennis",
+    "charts": ["heart", "heartzone", "TE"],
+    "segments": ["", ""]
+  },
+  {
+    "sportGroup": "Rope Skipping",
+    "charts": ["heart", "heartzone", "ropeFreq","TE"],
+    "segments": ["", ""]
+  },
+  {
+    "sportGroup": "Outdoor rowing",
+    "charts": ["speed", "heart", "heartzone", "strokeFreq", "TE"],
+    "segments": ["", ""]
+  },
+  {
+    "sportGroup": "Stair climbing",
+    "charts": ["heart", "heartzone", "altitude", "TE"],
+    "segments": ["", ""]
+  },
+  {
+    "sportGroup": "driving",
+    "charts": ["speed", "heart", "heartzone", "altitude", "slope", "TE"],
+    "segments": ["", ""]
+  },
+  {
+    "sportGroup": "Running track",
+    "charts": ["pace", "heart", "heartzone", "stepFreq", "stepStride", "TE", "bodyStatus"],
+    "segments": ["", ""]
+  },
+  {
+    "sportGroup": "golf swing",
+    "charts": ["heart", "golfBeat", "golfAngle", "golfUpDownTime", "TE"],
+    "segments": ["", ""]
+  }
+
+]

@@ -1,0 +1,1016 @@
+[
+  {
+    "name": "户外跑",
+    "id": "1",
+    "type": "1",
+    "sportGroup": "Outdoor running"
+  },
+  {
+    "name": "跑步机（原室内跑）",
+    "id": "2",
+    "type": "8",
+    "sportGroup": "Treadmill"
+  },
+  {
+    "name": "健走",
+    "id": "3",
+    "type": "6",
+    "sportGroup": "Walking"
+  },
+  {
+    "name": "户外骑行",
+    "id": "4",
+    "type": "9",
+    "sportGroup": "Outdoor Cycling"
+  },
+  {
+    "name": "自由训练",
+    "id": "5",
+    "type": "16",
+    "sportGroup": "Class 2"
+  },
+  {
+    "name": "泳池游泳",
+    "id": "6",
+    "type": "14",
+    "sportGroup": "Pool Swimming"
+  },
+  {
+    "name": "公开水域游泳",
+    "id": "7",
+    "type": "15",
+    "sportGroup": "Open Water Swimming"
+  },
+  {
+    "name": "室内骑行",
+    "id": "8",
+    "type": "10",
+    "sportGroup": "Indoor Cycling"
+  },
+  {
+    "name": "椭圆机",
+    "id": "9",
+    "type": "12",
+    "sportGroup": "Class 2"
+  },
+  {
+    "name": "登山",
+    "id": "10",
+    "type": "13",
+    "sportGroup": "Mountaineering"
+  },
+  {
+    "name": "越野跑",
+    "id": "11",
+    "type": "7",
+    "sportGroup": "Trail Running"
+  },
+  {
+    "name": "滑雪",
+    "id": "12",
+    "type": "11",
+    "sportGroup": "Skiing"
+  },
+  {
+    "name": "户外徒步",
+    "id": "15",
+    "type": "22",
+    "sportGroup": "Mountaineering"
+  },
+  {
+    "name": "网球",
+    "id": "17",
+    "type": "17",
+    "sportGroup": "Tennis"
+  },
+  {
+    "name": "足球",
+    "id": "18",
+    "type": "18",
+    "sportGroup": "Soccer"
+  },
+  {
+    "name": "铁人三项",
+    "id": "19",
+    "type": "2001",
+    "sportGroup": "Triathlon"
+  },
+  {
+    "name": "复合运动",
+    "id": "20",
+    "type": "2002",
+    "sportGroup": "multisport"
+  },
+  {
+    "name": "跳绳",
+    "id": "21",
+    "type": "21",
+    "sportGroup": "Rope Skipping"
+  },
+  {
+    "name": "划船机",
+    "id": "23",
+    "type": "23",
+    "sportGroup": "Rowing machine"
+  },
+  {
+    "name": "室内健身",
+    "id": "24",
+    "type": "24",
+    "sportGroup": "Indoor Fitness"
+  },
+  {
+    "name": "室内步行",
+    "id": "40",
+    "type": "40",
+    "sportGroup": "Indoor walking"
+  },
+  {
+    "name": "冰壶",
+    "id": "41",
+    "type": "41",
+    "sportGroup": "Class 2"
+  },
+  {
+    "name": "单板滑雪",
+    "id": "42",
+    "type": "42",
+    "sportGroup": "Skiing"
+  },
+  {
+    "name": "高山滑雪",
+    "id": "43",
+    "type": "43",
+    "sportGroup": "Skiing"
+  },
+  {
+    "name": "户外滑冰",
+    "id": "44",
+    "type": "44",
+    "sportGroup": "Cross-country skiing"
+  },
+  {
+    "name": "室内滑冰",
+    "id": "45",
+    "type": "45",
+    "sportGroup": "Class 2"
+  },
+  {
+    "name": "越野滑雪",
+    "id": "46",
+    "type": "46",
+    "sportGroup": "Cross-country skiing"
+  },
+  {
+    "name": "山地骑行",
+    "id": "47",
+    "type": "47",
+    "sportGroup": "Outdoor Cycling"
+  },
+  {
+    "name": "小轮车",
+    "id": "48",
+    "type": "48",
+    "sportGroup": "Outdoor Cycling"
+  },
+  {
+    "name": "高强度间歇训练",
+    "id": "49",
+    "type": "49",
+    "sportGroup": "Class 2"
+  },
+  {
+    "name": "核心训练",
+    "id": "50",
+    "type": "50",
+    "sportGroup": "Indoor Fitness"
+  },
+  {
+    "name": "混合有氧",
+    "id": "51",
+    "type": "51",
+    "sportGroup": "Class 2"
+  },
+  {
+    "name": "力量训练",
+    "id": "52",
+    "type": "52",
+    "sportGroup": "Strength training"
+  },
+  {
+    "name": "拉伸",
+    "id": "53",
+    "type": "53",
+    "sportGroup": "Class 2"
+  },
+  {
+    "name": "爬楼机",
+    "id": "54",
+    "type": "54",
+    "sportGroup": "Class 2"
+  },
+  {
+    "name": "柔韧训练",
+    "id": "55",
+    "type": "55",
+    "sportGroup": "Class 2"
+  },
+  {
+    "name": "踏步训练",
+    "id": "57",
+    "type": "57",
+    "sportGroup": "Class 2"
+  },
+  {
+    "name": "踏步机",
+    "id": "58",
+    "type": "58",
+    "sportGroup": "Class 2"
+  },
+  {
+    "name": "体操",
+    "id": "59",
+    "type": "59",
+    "sportGroup": "Class 2"
+  },
+  {
+    "name": "瑜伽",
+    "id": "60",
+    "type": "60",
+    "sportGroup": "Class 2"
+  },
+  {
+    "name": "普拉提",
+    "id": "61",
+    "type": "61",
+    "sportGroup": "Class 2"
+  },
+  {
+    "name": "冲浪",
+    "id": "62",
+    "type": "62",
+    "sportGroup": "Class 1"
+  },
+  {
+    "name": "打猎",
+    "id": "63",
+    "type": "63",
+    "sportGroup": "Cross-country skiing"
+  },
+  {
+    "name": "钓鱼",
+    "id": "64",
+    "type": "64",
+    "sportGroup": "Class 2"
+  },
+  {
+    "name": "帆船运动",
+    "id": "65",
+    "type": "65",
+    "sportGroup": "Class 1"
+  },
+  {
+    "name": "户外划船",
+    "id": "66",
+    "type": "66",
+    "sportGroup": "Outdoor rowing"
+  },
+  {
+    "name": "滑板",
+    "id": "67",
+    "type": "67",
+    "sportGroup": "Cross-country skiing"
+  },
+  {
+    "name": "桨板冲浪",
+    "id": "68",
+    "type": "68",
+    "sportGroup": "Class 1"
+  },
+  {
+    "name": "轮滑",
+    "id": "69",
+    "type": "69",
+    "sportGroup": "Class 1"
+  },
+  {
+    "name": "攀岩",
+    "id": "70",
+    "type": "70",
+    "sportGroup": "Class 2"
+  },
+  {
+    "name": "芭蕾舞",
+    "id": "71",
+    "type": "71",
+    "sportGroup": "Class 2"
+  },
+  {
+    "name": "肚皮舞",
+    "id": "72",
+    "type": "72",
+    "sportGroup": "Class 2"
+  },
+  {
+    "name": "广场舞",
+    "id": "73",
+    "type": "73",
+    "sportGroup": "Class 2"
+  },
+  {
+    "name": "街舞",
+    "id": "74",
+    "type": "74",
+    "sportGroup": "Class 2"
+  },
+  {
+    "name": "交际舞",
+    "id": "75",
+    "type": "75",
+    "sportGroup": "Class 2"
+  },
+  {
+    "name": "舞蹈",
+    "id": "76",
+    "type": "76",
+    "sportGroup": "Class 2"
+  },
+  {
+    "name": "尊巴",
+    "id": "77",
+    "type": "77",
+    "sportGroup": "Class 2"
+  },
+  {
+    "name": "板球",
+    "id": "78",
+    "type": "78",
+    "sportGroup": "Class 2"
+  },
+  {
+    "name": "棒球",
+    "id": "79",
+    "type": "79",
+    "sportGroup": "Class 2"
+  },
+  {
+    "name": "保龄球",
+    "id": "80",
+    "type": "80",
+    "sportGroup": "Class 2"
+  },
+  {
+    "name": "壁球",
+    "id": "81",
+    "type": "81",
+    "sportGroup": "Class 2"
+  },
+  {
+    "name": "橄榄球",
+    "id": "82",
+    "type": "82",
+    "sportGroup": "Soccer"
+  },
+  {
+    "name": "高尔夫",
+    "id": "83",
+    "type": "83",
+    "sportGroup": "golf"
+  },
+  {
+    "name": "高尔夫挥杆",
+    "id": "84",
+    "type": "84",
+    "sportGroup": "golf swing"
+  },
+  {
+    "name": "篮球",
+    "id": "85",
+    "type": "85",
+    "sportGroup": "Class 2"
+  },
+  {
+    "name": "垒球",
+    "id": "86",
+    "type": "86",
+    "sportGroup": "Class 2"
+  },
+  {
+    "name": "门球",
+    "id": "87",
+    "type": "87",
+    "sportGroup": "Class 2"
+  },
+  {
+    "name": "排球",
+    "id": "88",
+    "type": "88",
+    "sportGroup": "Class 2"
+  },
+  {
+    "name": "乒乓球",
+    "id": "89",
+    "type": "89",
+    "sportGroup": "Class 2"
+  },
+  {
+    "name": "曲棍球",
+    "id": "90",
+    "type": "90",
+    "sportGroup": "Soccer"
+  },
+  {
+    "name": "手球",
+    "id": "91",
+    "type": "91",
+    "sportGroup": "Class 2"
+  },
+  {
+    "name": "羽毛球",
+    "id": "92",
+    "type": "92",
+    "sportGroup": "Class 2"
+  },
+  {
+    "name": "射箭",
+    "id": "93",
+    "type": "93",
+    "sportGroup": "Class 2"
+  },
+  {
+    "name": "马术运动",
+    "id": "94",
+    "type": "94",
+    "sportGroup": "Class 1"
+  },
+  {
+    "name": "剑术",
+    "id": "95",
+    "type": "95",
+    "sportGroup": "Class 2"
+  },
+  {
+    "name": "空手道",
+    "id": "96",
+    "type": "96",
+    "sportGroup": "Class 2"
+  },
+  {
+    "name": "拳击",
+    "id": "97",
+    "type": "97",
+    "sportGroup": "Class 2"
+  },
+  {
+    "name": "柔道",
+    "id": "98",
+    "type": "98",
+    "sportGroup": "Class 2"
+  },
+  {
+    "name": "摔跤",
+    "id": "99",
+    "type": "99",
+    "sportGroup": "Class 2"
+  },
+  {
+    "name": "太极",
+    "id": "100",
+    "type": "100",
+    "sportGroup": "Class 2"
+  },
+  {
+    "name": "泰拳",
+    "id": "101",
+    "type": "101",
+    "sportGroup": "Class 2"
+  },
+  {
+    "name": "跆拳道",
+    "id": "102",
+    "type": "102",
+    "sportGroup": "Class 2"
+  },
+  {
+    "name": "武术",
+    "id": "103",
+    "type": "103",
+    "sportGroup": "Class 2"
+  },
+  {
+    "name": "自由搏击",
+    "id": "104",
+    "type": "104",
+    "sportGroup": "Class 2"
+  },
+  {
+    "name": "双板滑雪",
+    "id": "105",
+    "type": "105",
+    "sportGroup": "Skiing"
+  },
+  {
+    "name": "风筝冲浪",
+    "id": "106",
+    "type": "106",
+    "sportGroup": "Class 1"
+  },
+  {
+    "name": "爬楼",
+    "id": "108",
+    "type": "108",
+    "sportGroup": "Stair climbing"
+  },
+  {
+    "name": "健身操",
+    "id": "109",
+    "type": "109",
+    "sportGroup": "Class 2"
+  },
+  {
+    "name": "定向越野",
+    "id": "110",
+    "type": "110",
+    "sportGroup": "Trail Running"
+  },
+  {
+    "name": "团体操",
+    "id": "111",
+    "type": "111",
+    "sportGroup": "Class 2"
+  },
+  {
+    "name": "拉丁舞",
+    "id": "112",
+    "type": "112",
+    "sportGroup": "Class 2"
+  },
+  {
+    "name": "爵士舞",
+    "id": "113",
+    "type": "113",
+    "sportGroup": "Class 2"
+  },
+  {
+    "name": "搏击操",
+    "id": "114",
+    "type": "114",
+    "sportGroup": "Class 2"
+  },
+  {
+    "name": "呼啦圈",
+    "id": "115",
+    "type": "115",
+    "sportGroup": "Class 2"
+  },
+  {
+    "name": "飞盘",
+    "id": "116",
+    "type": "116",
+    "sportGroup": "Class 2"
+  },
+  {
+    "name": "飞镖",
+    "id": "117",
+    "type": "117",
+    "sportGroup": "Class 2"
+  },
+  {
+    "name": "放风筝",
+    "id": "118",
+    "type": "118",
+    "sportGroup": "Class 2"
+  },
+  {
+    "name": "拔河",
+    "id": "119",
+    "type": "119",
+    "sportGroup": "Class 2"
+  },
+  {
+    "name": "踢毽子",
+    "id": "120",
+    "type": "120",
+    "sportGroup": "Class 2"
+  },
+  {
+    "name": "沙滩足球",
+    "id": "121",
+    "type": "121",
+    "sportGroup": "Soccer"
+  },
+  {
+    "name": "沙滩排球",
+    "id": "122",
+    "type": "122",
+    "sportGroup": "Class 2"
+  },
+  {
+    "name": "漂流",
+    "id": "123",
+    "type": "123",
+    "sportGroup": "Class 1"
+  },
+  {
+    "name": "摩托艇",
+    "id": "124",
+    "type": "124",
+    "sportGroup": "Class 1"
+  },
+  {
+    "name": "雪车",
+    "id": "125",
+    "type": "125",
+    "sportGroup": "Cross-country skiing"
+  },
+  {
+    "name": "雪橇",
+    "id": "126",
+    "type": "126",
+    "sportGroup": "Cross-country skiing"
+  },
+  {
+    "name": "定向滑雪",
+    "id": "127",
+    "type": "127",
+    "sportGroup": "Cross-country skiing"
+  },
+  {
+    "name": "冬季两项",
+    "id": "128",
+    "type": "128",
+    "sportGroup": "Cross-country skiing"
+  },
+  {
+    "name": "跑酷",
+    "id": "129",
+    "type": "129",
+    "sportGroup": "Class 2"
+  },
+  {
+    "name": "交叉训练",
+    "id": "130",
+    "type": "130",
+    "sportGroup": "Class 2"
+  },
+  {
+    "name": "竞走",
+    "id": "131",
+    "type": "131",
+    "sportGroup": "Outdoor running"
+  },
+  {
+    "name": "驾车",
+    "id": "132",
+    "type": "132",
+    "sportGroup": "driving"
+  },
+  {
+    "name": "滑翔伞",
+    "id": "133",
+    "type": "133",
+    "sportGroup": "parasailing"
+  },
+  {
+    "name": "雪地摩托",
+    "id": "136",
+    "type": "136",
+    "sportGroup": "driving"
+  },
+  {
+    "name": "越野摩托",
+    "id": "137",
+    "type": "137",
+    "sportGroup": "driving"
+  },
+  {
+    "name": "龙舟",
+    "id": "138",
+    "type": "138",
+    "sportGroup": "Class 1"
+  },
+  {
+    "name": "滑水",
+    "id": "139",
+    "type": "139",
+    "sportGroup": "Class 1"
+  },
+  {
+    "name": "皮划艇",
+    "id": "140",
+    "type": "140",
+    "sportGroup": "Class 1"
+  },
+  {
+    "name": "赛艇",
+    "id": "141",
+    "type": "141",
+    "sportGroup": "Class 1"
+  },
+  {
+    "name": "马球",
+    "id": "142",
+    "type": "142",
+    "sportGroup": "Class 1"
+  },
+  {
+    "name": "动感单车",
+    "id": "143",
+    "type": "143",
+    "sportGroup": "Class 2"
+  },
+  {
+    "name": "漫步机",
+    "id": "144",
+    "type": "144",
+    "sportGroup": "Class 2"
+  },
+  {
+    "name": "墙球",
+    "id": "145",
+    "type": "145",
+    "sportGroup": "Class 2"
+  },
+  {
+    "name": "民族舞",
+    "id": "146",
+    "type": "146",
+    "sportGroup": "Class 2"
+  },
+  {
+    "name": "柔术",
+    "id": "147",
+    "type": "147",
+    "sportGroup": "Class 2"
+  },
+  {
+    "name": "击剑",
+    "id": "148",
+    "type": "148",
+    "sportGroup": "Class 2"
+  },
+  {
+    "name": "单杠",
+    "id": "149",
+    "type": "149",
+    "sportGroup": "Class 2"
+  },
+  {
+    "name": "双杠",
+    "id": "150",
+    "type": "150",
+    "sportGroup": "Class 2"
+  },
+  {
+    "name": "台球",
+    "id": "151",
+    "type": "151",
+    "sportGroup": "Class 2"
+  },
+  {
+    "name": "藤球",
+    "id": "152",
+    "type": "152",
+    "sportGroup": "Class 2"
+  },
+  {
+    "name": "躲避球",
+    "id": "153",
+    "type": "153",
+    "sportGroup": "Class 2"
+  },
+  {
+    "name": "水球",
+    "id": "154",
+    "type": "154",
+    "sportGroup": "Class 2"
+  },
+  {
+    "name": "蹼泳",
+    "id": "155",
+    "type": "155",
+    "sportGroup": "Class 2"
+  },
+  {
+    "name": "花样游泳",
+    "id": "156",
+    "type": "156",
+    "sportGroup": "Class 2"
+  },
+  {
+    "name": "浮潜",
+    "id": "157",
+    "type": "157",
+    "sportGroup": "Class 2"
+  },
+  {
+    "name": "冰球",
+    "id": "158",
+    "type": "158",
+    "sportGroup": "Class 2"
+  },
+  {
+    "name": "秋千",
+    "id": "159",
+    "type": "159",
+    "sportGroup": "Class 2"
+  },
+  {
+    "name": "沙狐球",
+    "id": "160",
+    "type": "160",
+    "sportGroup": "Class 2"
+  },
+  {
+    "name": "桌上足球",
+    "id": "161",
+    "type": "161",
+    "sportGroup": "Class 2"
+  },
+  {
+    "name": "毽球",
+    "id": "162",
+    "type": "162",
+    "sportGroup": "Class 2"
+  },
+  {
+    "name": "体感游戏",
+    "id": "163",
+    "type": "163",
+    "sportGroup": "Class 2"
+  },
+  {
+    "name": "室内足球",
+    "id": "164",
+    "type": "164",
+    "sportGroup": "Class 2"
+  },
+  {
+    "name": "嘻哈舞",
+    "id": "165",
+    "type": "165",
+    "sportGroup": "Class 2"
+  },
+  {
+    "name": "钢管舞",
+    "id": "166",
+    "type": "166",
+    "sportGroup": "Class 2"
+  },
+  {
+    "name": "战绳",
+    "id": "167",
+    "type": "167",
+    "sportGroup": "Class 2"
+  },
+  {
+    "name": "霹雳舞",
+    "id": "168",
+    "type": "168",
+    "sportGroup": "Class 2"
+  },
+  {
+    "name": "沙包球",
+    "id": "169",
+    "type": "169",
+    "sportGroup": "Class 2"
+  },
+  {
+    "name": "地掷球",
+    "id": "170",
+    "type": "170",
+    "sportGroup": "Class 2"
+  },
+  {
+    "name": "回力球",
+    "id": "171",
+    "type": "171",
+    "sportGroup": "Class 2"
+  },
+  {
+    "name": "室内冲浪",
+    "id": "172",
+    "type": "172",
+    "sportGroup": "Class 2"
+  },
+  {
+    "name": "国际象棋",
+    "id": "173",
+    "type": "173",
+    "sportGroup": "Class 3"
+  },
+  {
+    "name": "国际跳棋",
+    "id": "174",
+    "type": "174",
+    "sportGroup": "Class 3"
+  },
+  {
+    "name": "围棋",
+    "id": "175",
+    "type": "175",
+    "sportGroup": "Class 3"
+  },
+  {
+    "name": "桥牌",
+    "id": "176",
+    "type": "176",
+    "sportGroup": "Class 3"
+  },
+  {
+    "name": "桌游",
+    "id": "177",
+    "type": "177",
+    "sportGroup": "Class 3"
+  },
+  {
+    "name": "雪鞋健行",
+    "id": "178",
+    "type": "178",
+    "sportGroup": "Cross-country skiing"
+  },
+  {
+    "name": "射击",
+    "id": "179",
+    "type": "179",
+    "sportGroup": "Class 4"
+  },
+  {
+    "name": "跳伞",
+    "id": "180",
+    "type": "180",
+    "sportGroup": "Class 5"
+  },
+  {
+    "name": "速降",
+    "id": "181",
+    "type": "181",
+    "sportGroup": "Class 5"
+  },
+  {
+    "name": "蹦极",
+    "id": "182",
+    "type": "182",
+    "sportGroup": "Class 6"
+  },
+  {
+    "name": "蹦床",
+    "id": "183",
+    "type": "183",
+    "sportGroup": "Class 6"
+  },
+  {
+    "name": "抱石",
+    "id": "184",
+    "type": "184",
+    "sportGroup": "Class 2"
+  },
+  {
+    "name": "现代舞",
+    "id": "185",
+    "type": "185",
+    "sportGroup": "Class 2"
+  },
+  {
+    "name": "迪斯科",
+    "id": "186",
+    "type": "186",
+    "sportGroup": "Class 2"
+  },
+  {
+    "name": "踢踏舞",
+    "id": "187",
+    "type": "187",
+    "sportGroup": "Class 2"
+  },
+  {
+    "name": "地板球",
+    "id": "188",
+    "type": "188",
+    "sportGroup": "Class 2"
+  },
+  {
+    "name": "电子竞技",
+    "id": "189",
+    "type": "189",
+    "sportGroup": "Class 3"
+  },
+  {
+    "name": "沙滩车",
+    "id": "190",
+    "type": "190",
+    "sportGroup": "driving"
+  },
+  {
+    "name": "足球",
+    "id": "191",
+    "type": "191",
+    "sportGroup": "Class 2"
+  },
+  {
+    "name": "操场跑步",
+    "id": "192",
+    "type": "192",
+    "sportGroup": "Running track"
+  }
+]

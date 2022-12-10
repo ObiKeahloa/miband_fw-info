@@ -1,0 +1,2 @@
+ALTER TABLE WatchFaces ADD COLUMN DownloadTime INTEGER;
+ALTER TABLE WatchFaces ADD COLUMN WatchFaceType INTEGER;
