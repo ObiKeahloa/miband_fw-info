@@ -3,3 +3,5 @@ assets/*
 
 # Ignore test fw
 *.fw
+
+.DS_Store
