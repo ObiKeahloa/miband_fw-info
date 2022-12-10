@@ -1,0 +1,5 @@
+# Ignore assets
+assets/*
+
+# Ignore test fw
+*.fw
