@@ -6,6 +6,7 @@ read FWFILE
 PANGU=$(grep 'Smart Band 6' $FWFILE)
 KONGMING=$(grep 'Smart Band 5' $FWFILE)
 CINCO=$(grep 'Smart Band 4' $FWFILE)
+CINCO_L=$(grep 'Smart Band 4 NFC' $FWFILE)
 BAND=$(grep 'Xiaomi Band 3' $FWFILE)
 BANDTWO=$(grep 'MI Band 2' $FWFILE)
 BANDHRX=$(grep 'Mi Band HRX' $FWFILE)
@@ -44,7 +45,11 @@ then
 	fwheader
 elif [ "$CINCO" == "Binary file $FWFILE matches" ]
 then
-	echo Device: Mi Band 4
+	if ("$CINCO_L" == "Binary file $FWFILE matches")
+	then
+		echo Device: Mi band 4 NFC
+	else
+		echo Device: Mi Band 4
 	fwheader
 elif [ "$BAND" == "Binary file $FWFILE matches" ]
 then
