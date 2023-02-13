@@ -13,7 +13,7 @@ $ ./fw_info.sh
  
  Currently works on Mi Band's 3 to 6.
  
- Script will (should) execute on all Linux systems/bash systems, tested on Mac Os Ventura.
+ Script will (should) execute on all Linux systems/bash systems, tested on Mac OS.
  
  # Plans/TODO
  
